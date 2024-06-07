@@ -14,3 +14,9 @@ Acceptance criteria:
 * Customers must be able to submit their answers anonymously
 * There must be a time limit on the poll
 * results to be collated on a spreadsheet
+
+Tasks:
+* Create a bitton form or the questions and option choices
+* Creat the field to allow a cusomterr to complete the form annonymously
+* Create the code that will only show the pollon the site for a limited time
+* Create the databse for where the information will be stored
